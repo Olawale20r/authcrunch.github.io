@@ -33,7 +33,7 @@ It can also be "passwordless":
       address 127.0.0.1:1025
       protocol smtp
       passwordless
-      sender root@localhost "My Auth Portal"
+      sender mryan@marlawri.com "My Auth Portal"
       bcc greenpau@localhost
     }
   }
@@ -49,8 +49,8 @@ It may support TLS:
       address 127.0.0.1:1025
       protocol smtps
       passwordless
-      sender root@localhost "My Auth Portal"
-      bcc greenpau@localhost
+      sender mryan@marlawri.com"My Auth Portal"
+      bcc babatuseyhe@gmail.com
     }
   }
 }
